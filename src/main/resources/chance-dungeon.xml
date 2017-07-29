@@ -26,7 +26,7 @@
         <state name="has tinderbox" value="true"/>
         <state name="has backpack" value="true"/>
         <string name="came from" value="south"/>
-        <choice station="take movement card">With tales of new monsters ringing in your ears, you light your torch andyou head north into the dark.</choice>
+        <choice station="take movement card">With tales of new monsters ringing in your ears, you light your torch and head north into the dark.</choice>
     </station>
 
     <station id="take movement card">
