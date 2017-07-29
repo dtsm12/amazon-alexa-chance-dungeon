@@ -5,7 +5,7 @@
     <about>
         <title>Chance Dungeon</title>
         <author>David Maitland</author>
-        <intro>You are a brave adventurer who in his journeys across the new world have heard of uncharted caves or dungeons that many have been into but not returned from.
+        <intro>You are a brave adventurer who, in his journeys across the new world, has heard of a dungeon that many have been into but not returned from.
             You have taken the challenge to map them and have stocked up supplies.
             You have with you a sword and backpack containing 6 torches, a tinder box to light them, and 4 meals.</intro>
     </about>
@@ -26,7 +26,7 @@
         <state name="has tinderbox" value="true"/>
         <state name="has backpack" value="true"/>
         <string name="came from" value="south"/>
-        <choice station="take movement card">Lighting your torch you head north into the dark.</choice>
+        <choice station="take movement card">With tales of new monsters ringing in your ears, you light your torch andyou head north into the dark.</choice>
     </station>
 
     <station id="take movement card">
